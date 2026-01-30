@@ -5,9 +5,6 @@ It also have placeholders for images!
 
 To change the design of the powerpoint, at the end of your message you can e.g. add -2 (1-7). (In the flask webui).
 
-I ported this generator so it uses local large language models to generate the content for the PowerPoints. (For example LLaMA based models) 
-You can check it out here and feel free to give it a star: [Powerpointer-For-Local-LLMs](https://github.com/CyberTimon/Powerpointer-For-Local-LLMs)
-
 ## Warning: The code for this tool may require modifications or optimization to meet specific needs.
 
 The PowerPoint generator comes with a beautiful Flask chat interface that waits for the user's prompt, which will be used to generate the PowerPoint presentation. With this tool, you can easily create stunning and informative presentations in no time.
