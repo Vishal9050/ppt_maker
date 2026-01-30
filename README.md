@@ -26,10 +26,6 @@ After this, place your OpenAI API Key inside app.py
 
 Finally start the flask webserver by running "start_app.bat"
 
-Please report any issues and feel free to fix my code!
-
-Made by CyberTimon (timon@cybertimon.ch)
-
 # This is how the powerpoints could look like (7 available designs):
 ![alt text](https://github.com/CyberTimon/powerpointer/raw/main/Demo1.png)
 
